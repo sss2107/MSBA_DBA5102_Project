@@ -10,9 +10,9 @@
 ### Data 
  - Bitcoin price data and many other sources
  - Data Sources
-   >> https://github.com/hwaneest/MSBA_DBA5102_Project/tree/main/Data_Sources
+   > https://github.com/hwaneest/MSBA_DBA5102_Project/tree/main/Data_Sources
  - Final Data used
-   >> https://github.com/hwaneest/MSBA_DBA5102_Project/tree/main/DATA_FINAL
+   > https://github.com/hwaneest/MSBA_DBA5102_Project/tree/main/DATA_FINAL
 
 ### Team Members
  - Widya Gani Salim / A0231857Y

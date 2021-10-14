@@ -1,7 +1,7 @@
 # NUS AY 2021/2022 MSBA DBA5102 Project
 
 ### Overall
- - In-module team porject done by MSBA FT/PT students
+ - In-module team project done by MSBA FT/PT students
  
 ### Topic
  - Bitcoin Price Prediction
